@@ -1,0 +1,13 @@
+﻿{
+  "connectionString": "mongodb+srv://user:pass@clientmanagementdb-jmsga.mongodb.net/paneldb?retryWrites=true&w=majority",
+  "secret": "THIS IS USED TO SIGN AND VERIFY JWT TOKENS, REPLACE IT WITH YOUR OWN SECRET, IT CAN BE ANY STRING",
+  "emailFrom": "info@node-mongo-signup-verification-api.com",
+  "smtpOptions": {
+    "host": "smtp.ethereal.email",
+    "port": 587,
+    "auth": {
+      "user": "princess.breitenberg@ethereal.email",
+      "pass": "Sk2rQ8jawacY5kCMGu"
+    }
+  }
+}
