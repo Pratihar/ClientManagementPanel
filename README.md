@@ -1,5 +1,3 @@
-# node-mongo-signup-verification-api
+# node-mongo-client-management-panel
 
-NodeJS + MongoDB - API with Email Sign Up, Verification, Authentication & Forgot Password
-
-For documentation and instructions see https://jasonwatmore.com/post/2020/05/13/node-mongo-api-with-email-sign-up-verification-authentication-forgot-password
+ReactJS + NodeJS + MongoDB - A Client Management Panel
